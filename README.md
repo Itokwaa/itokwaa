@@ -1,4 +1,14 @@
-## Hi there 👋
+## Why are you here??
+
+Well, Hello! I'm Irann Rivera (or just Rain, unless my code breaks, then feel free to call me "Raaaaain!").
+
+Welcome to my profile, where I document my ongoing battle with the goblins but often frustrating art of digital creation. I'm currently new and am dedicating my time to figuring out why my projects work flawlessly in the tutorials but decide to put up a fight on my local machine.
+
+Current Mission: Turning coffee into clean, functional code (still optimizing the conversion rate).
+
+Skills Under Development: I'm actively learning the fundamentals, focusing heavily on HTML, CSS, and JavaScript. Embrace the mistakes with me—that's where the learning happens!
+
+Thanks for stopping by! Let's connect and share the coding joy/struggle.
 
 <!--
 **Itokwaa/itokwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
