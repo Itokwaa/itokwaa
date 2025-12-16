@@ -8,7 +8,7 @@ Current Mission: Turning my very cool codes to a life.
 
 Skills Under Development: 
 
-Thanks for stopping by! Let's connect and share the coding joy/struggle.
+Thanks for stopping by!
 
 <!--
 **Itokwaa/itokwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
