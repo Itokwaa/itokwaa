@@ -1,6 +1,6 @@
 ## Why are you here??
 
-Well, Hello! I'm Irann Rivera.
+Well, Hello! My name is Irann Rivera.
 
 Welcome to my profile, where I document my ongoing battle with the goblins but often frustrating art of digital creation. I'm currently new and am dedicating my time to figuring out why my projects work flawlessly in the tutorials but decide to put up a fight on my local machine.
 
