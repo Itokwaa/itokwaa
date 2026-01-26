@@ -6,9 +6,9 @@ Welcome to my profile, where I document my ongoing battle with the goblins but o
 
 Current Mission: Turning my very cool codes to a life.
 
-Skills Under Development: 
+Skills Under Development
 
-Thanks for stopping by!
+WAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 <!--
 **Itokwaa/itokwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
